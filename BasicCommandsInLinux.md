@@ -1,4 +1,4 @@
-** Finding Yourself with pwd ** :- The present working directory command, pwd, returns your location within 
+**Finding Yourself with pwd** :- The present working directory command, pwd, returns your location within 
 the directory structure.
 ```
 ashishsingh@nuc7i7bnh:~$ pwd
